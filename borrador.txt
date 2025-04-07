@@ -1,0 +1,11 @@
+home 
+	imagen 
+quien soy
+	imágenes + texto 
+que hacemos
+	texto + imagen
+servicios
+	texto
+contacto
+	formulario
+
